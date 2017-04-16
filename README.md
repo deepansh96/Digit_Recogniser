@@ -1,5 +1,5 @@
 # Digit_Recogniser
-Doing handwritten digit recognition using using single layer artificial neural network.
+Doing handwritten digit recognition using using single layer artificial neural network trained on MNIST dataset.
 
 The scripts were written in GNU Octave.
 
